@@ -1,2 +1,2 @@
 # DEAW 
-"Este es un repositorio para el m¢dulo de Despliegue de Aplicaciones Web (DEAW). Aqu¡ se almacenar n los ejercicios y pr cticas relacionadas con Git y GitHub." 
+"Este es un repositorio para el mÂ¢dulo de Despliegue de Aplicaciones Web (DEAW). Aqui se almacenarÂ n los ejercicios y practicas relacionadas con Git y GitHub de DAW SEMI." 
